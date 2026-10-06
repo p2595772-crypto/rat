@@ -539,8 +539,8 @@ setInterval(async () => {
 // ======================================================
 
 const DISCORD_TOKEN = process.env.DISCORD_TOKEN;
-const DISCORD_CLIENT_ID = "1545825779928010772";
-const DISCORD_GUILD_ID = "1545826564409790474";
+const DISCORD_CLIENT_ID = "1557081147224231966";
+const DISCORD_GUILD_ID = "1557071894275162258";
 
 const discord = new Client({
     intents: [
